@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Testimonio-Alumnos/static/css/main.72976bb2.css",
+    "main.js": "/Testimonio-Alumnos/static/js/main.e0f01546.js",
+    "static/js/787.9afcf521.chunk.js": "/Testimonio-Alumnos/static/js/787.9afcf521.chunk.js",
+    "static/media/testimonio-emma.png": "/Testimonio-Alumnos/static/media/testimonio-emma.add10415a5668325d2f2.png",
+    "static/media/testimonio-sarah.png": "/Testimonio-Alumnos/static/media/testimonio-sarah.2c504d1ebaf1961e4a40.png",
+    "static/media/testimonio-shawn.png": "/Testimonio-Alumnos/static/media/testimonio-shawn.0d373888087fb18fc145.png",
+    "static/media/logo.svg": "/Testimonio-Alumnos/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Testimonio-Alumnos/index.html",
+    "main.72976bb2.css.map": "/Testimonio-Alumnos/static/css/main.72976bb2.css.map",
+    "main.e0f01546.js.map": "/Testimonio-Alumnos/static/js/main.e0f01546.js.map",
+    "787.9afcf521.chunk.js.map": "/Testimonio-Alumnos/static/js/787.9afcf521.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72976bb2.css",
+    "static/js/main.e0f01546.js"
+  ]
+}
