@@ -25,7 +25,8 @@ View online: https://lucianoalessi.github.io/Testimonio-Alumnos
 
 #### Preview of project
 
-![image](https://github.com/lucianoalessi/Testimonio-Alumnos/assets/115379121/314acfbc-1b7c-4928-9901-20612f696cd3)
+![image](https://github.com/lucianoalessi/Testimonio-Alumnos/assets/115379121/3d8d7d94-71bd-47c6-abce-5b12b24e5aa5)
+
 
 
 
